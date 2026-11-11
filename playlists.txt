@@ -1,0 +1,4 @@
+# Pune aici câte un link pe linie: o listă .m3u / .m3u8 sau un canal direct.
+# Liniile care încep cu # sunt ignorate.
+# Toate canalele din lume, grupate pe țări (se actualizează singură):
+https://iptv-org.github.io/iptv/index.country.m3u
